@@ -70,3 +70,5 @@ Regra de bloqueio: cartão parado por dependência externa é marcado como imped
 ## Declaração de uso de IA
 - **Claude (Sonnet 5):** usado na ideação, na categorização FURPS+ dos requisitos, na criação e divisão dos cartões do Kanban e no apoio à estruturação desta entrega (templates e este documento). O time revisou os resultados, balanceou o texto da ideação e ajustou os textos ao projeto.
 - **Google Stitch:** usado para gerar as telas do protótipo, depois refinadas pelo time com prompts de ajuste (navegação entre perfis e correção do cabeçalho).
+- **Claude (Opus 5.5):** usado para redigir as especificações C17, C18 e C19 (`docs/especificacoes/`) e a correção da C18 (issue #36). A Scrum Master revisou os textos, alinhou história de usuário e critérios de aceitação com as issues e conferiu os valores padrão.
+
