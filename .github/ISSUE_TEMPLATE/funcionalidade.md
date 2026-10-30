@@ -5,9 +5,6 @@ title: "[FEAT] "
 labels: funcionalidade
 ---
 
-## Origem e estimativa
-Requisito: RF__ / RNF__ — Cartão: C__ — Estimativa: __h
-
 ## História de usuário
 Como <papel>, quero <ação> para <benefício>.
 
@@ -17,3 +14,6 @@ Como <papel>, quero <ação> para <benefício>.
 
 ## Prioridade (MoSCoW)
 Must / Should / Could / Won't
+
+## Origem e estimativa
+Requisito: RF__ / RNF__ — Cartão: C__ — Estimativa: __h
