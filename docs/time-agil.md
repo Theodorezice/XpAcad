@@ -68,5 +68,5 @@ Quadro no GitHub Projects, ligado ao repositório:
 Regra de bloqueio: cartão parado por dependência externa é marcado como impedido, continua contando para o WIP e é o primeiro assunto da conversa seguinte do time.
 
 ## Declaração de uso de IA
-- **Claude (Sonnet 5):** usado na ideação, na categorização FURPS+ dos requisitos, na criação e divisão dos cartões do Kanban e no apoio à estruturação desta entrega (templates e este documento). O time revisou os resultados, balanceou o texto da ideação para atender também aos alunos e ajustou os textos ao projeto.
+- **Claude (Sonnet 5):** usado na ideação, na categorização FURPS+ dos requisitos, na criação e divisão dos cartões do Kanban e no apoio à estruturação desta entrega (templates e este documento). O time revisou os resultados, balanceou o texto da ideação e ajustou os textos ao projeto.
 - **Google Stitch:** usado para gerar as telas do protótipo, depois refinadas pelo time com prompts de ajuste (navegação entre perfis e correção do cabeçalho).
