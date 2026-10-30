@@ -45,12 +45,12 @@ Justificativa de quem tem nível médio em poder ou interesse:
 | O que comunicar | Para quem | Evento ou canal | Frequência | Responsável |
 |---|---|---|---|---|
 | Meta da sprint e backlog | Equipe de desenvolvimento, Professor-orientador | Sprint Planning | A cada sprint | Product Owner / Scrum Master |
-| Progresso e planejamento do dia | Equipe de desenvolvimento | Daily Scrum ([canal]) | Diária (15 minutos) | Developers / Scrum Master |
+| Progresso e planejamento do dia | Equipe de desenvolvimento | Daily Scrum (Whatsapp/Presencial) | Diária (15 minutos) | Developers / Scrum Master |
 | Demonstração da entrega e coleta de feedback | Coordenação, Diretoria, Professor-orientador, Alunos | Sprint Review | Final da sprint | Product Owner / Scrum Master |
 | Melhorias de processo e análise do trabalho em equipe | Equipe de desenvolvimento | Sprint Retrospective | Final da sprint, após a Review | Scrum Master / Developers |
-| Estado do backlog e dos critérios de risco e de visibilidade dos dados | Coordenação | [canal combinado] | A cada sprint | Product Owner |
+| Estado do backlog e dos critérios de risco e de visibilidade dos dados | Coordenação | Reunião | A cada sprint | Product Owner |
 | Conformidade com a LGPD (dados pessoais e consentimento) | ANPD, Diretoria | Documento de privacidade no repositório | A cada mudança que envolva dados pessoais | Product Owner |
-| Decisões de hospedagem e infraestrutura | Fornecedor de infraestrutura | [canal combinado] | Quando houver decisão | Scrum Master |
+| Decisões de hospedagem e infraestrutura | Fornecedor de infraestrutura | Suporte do fornecedor | Quando houver decisão | Scrum Master |
 
 Planning, Daily e Retrospective são feitas apenas com o Scrum Team.
 
