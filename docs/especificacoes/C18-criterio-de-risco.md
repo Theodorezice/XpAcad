@@ -11,6 +11,7 @@ Permitir que a coordenação pedagógica defina quando um aluno é sinalizado co
 ## Parâmetros configuráveis
 | Parâmetro | Descrição | Valor padrão |
 |---|---|---|
+| Frequência mínima | Percentual mínimo de presença no período | 75% |
 | Faltas consecutivas | Nº de aulas seguidas sem presença | 3 |
 | Entregas não realizadas | Nº de atividades não entregues no período | 2 |
 | Queda de XP | Redução percentual do XP semanal em relação à média do aluno | 50% |
